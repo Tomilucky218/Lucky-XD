@@ -1,0 +1,62 @@
+{
+  "name": "Lucky-XD",
+  "description": "Javascript WhatsApp bot made by Lucky Tech Hub",
+  "logo": "https://files.catbox.moe/vje5wl.jpeg",
+  "keywords": ["LUCKY XD"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with lucky~",
+        "value":"",
+        "required": true
+        
+    },
+      "BOT_NAME": {
+        "description": "write here your bot name.",
+        "required": true,
+        "value": "Lucky XD" 
+        
+    },
+     "PREFIX": {
+       "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": "."
+      "required": true,
+      
+    },
+      "MODE": {
+        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+        "value":"private",
+        "required": true  
+        
+   },
+     "DESCRIPTION": {
+      "description": "add caption for menu and other",
+      "value": "> *Powered By Lucky Tech Hub*",
+      "required": true
+      
+   }, 
+
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "value": "256789966218"
+      "required": true
+      
+   },
+    "OWNER_NAME": {
+      "description": "Enter your name here",
+      "value": "",
+      "required": true
+    }
+
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
+  
