@@ -252,13 +252,13 @@ async (conn, mek, m, { reply }) => {
         // Get current date and time
         const now = new Date();
         
-        // Get local time in Zimbabwe timezone (Africa/Nairobi)
+        // Get local time in Uganda timezone (Africa/Kampala)
         const localTime = now.toLocaleTimeString("en-US", { 
             hour: "2-digit", 
             minute: "2-digit", 
             second: "2-digit", 
             hour12: true,
-            timeZone: "Africa/Harare" // Setting Africa time zone explicitly
+            timeZone: "Africa/Uganda" // Setting Africa time zone explicitly
         });
         
         // Send the local time as reply
