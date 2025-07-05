@@ -1,5 +1,6 @@
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
-
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" />
+</p>
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Lucky-XD-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Lucky218" alt="Typing SVG" />
