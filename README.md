@@ -75,13 +75,13 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/luckytechhub/Lucky-XD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/Tomilucky218/Lucky-XD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/luckytechhub/Lucky-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/Tomilucky218/Lucky-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 <h2 align="center">🚀 Deploy LUCKY-XD Anywhere</h2>
@@ -91,12 +91,12 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 <div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
 
 🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/luckytechhub/Lucky-XD" target="_blank">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Tomilucky218/Lucky-XD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 
 💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=luckytechhub/Lucky-XD" target="_blank">
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=Tomilucky218/Lucky-XD" target="_blank">
   <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
 </a>
 
@@ -183,7 +183,7 @@ jobs:
 > Get the latest LUCKY-XD bot zip file for panel-based deployment:
 
 <div align="left">
-  <a href="https://github.com/luckytechhub/Lucky-XD/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/Tomilucky218/Lucky-XD/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
   </a>
 </div>
@@ -247,7 +247,7 @@ jobs:
 
 > Built with ❤️ by **Lucky 218**
 
-- 👤 [Lucky 218](https://github.com/luckytechhub) — Creator & Maintainer  
+- 👤 [Lucky 218](https://github.com/Tomilucky218) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
 ---
@@ -255,13 +255,13 @@ jobs:
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/luckytechhub">
-    <img src="https://github-readme-stats.vercel.app/api?username=luckytechhub&show_icons=true&theme=radical" />
+  <a href="https://github.com/Tomilucky218">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tomilucky218&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/luckytechhub/Lucky-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/Tomilucky218/Lucky-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ---
@@ -287,4 +287,4 @@ jobs:
 # License: APACHE
 ```
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/luckytechhub/Lucky-XD/stargazers"> <img src="http://reporoster.com/stars/dark/luckytechhub/Lucky-XD" alt="Stargazers repo roster for @luckytechhub/Lucky-XD"> </a> </p> <p align="center"> <a href="https://github.com/luckytechhub/Lucky-XD/network/members"> <img src="http://reporoster.com/forks/dark/luckytechhub/Lucky-XD" alt="Forkers repo roster for @luckytechhub/Lucky-XD"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD/stargazers"> <img src="http://reporoster.com/stars/dark/Tomilucky218/Lucky-XD" alt="Stargazers repo roster for @Tomilucky218/Lucky-XD"> </a> </p> <p align="center"> <a href="https://github.com/Tomilucky218/Lucky-XD/network/members"> <img src="http://reporoster.com/forks/dark/Tomilucky218/Lucky-XD" alt="Forkers repo roster for @Tomilucky218/Lucky-XD"> </a> </p> 
